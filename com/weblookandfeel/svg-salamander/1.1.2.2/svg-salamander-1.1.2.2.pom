@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.weblookandfeel</groupId>
+  <artifactId>svg-salamander</artifactId>
+  <version>1.1.2.2</version>
+  <name>svg-salamander</name>
+  <description>A tool for displaying and playing SVG content using the Java2D</description>
+  <url>https://github.com/mgarin/svgSalamander</url>
+  <organization>
+    <name>kitfox.com</name>
+    <url>http://www.kitfox.com</url>
+  </organization>
+  <licenses>
+    <license>
+      <name>BSD License</name>
+      <url>https://opensource.org/licenses/BSD-3-Clause</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Mark McKay</name>
+      <email>mark@kitfox.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/blackears/svgSalamander.git</connection>
+    <developerConnection>https://github.com/blackears/svgSalamander/tree/master/svg-salamander</developerConnection>
+    <url>https://github.com/bmuschko/gradle-nexus-plugin</url>
+  </scm>
+</project>
