@@ -1,7 +1,7 @@
 package org.example;
 
 public class EventData {
-    private int id;
+    //private int id;
     private String date;
     private String event;
     private String name;
@@ -10,8 +10,8 @@ public class EventData {
 
     // 其他字段...
 
-    public EventData(int id, String date,String event ,String name,String start_time,String finish_time) {
-        this.id = id;
+    public EventData(String date,String event ,String name,String start_time,String finish_time) {
+        //this.id = id;
         this.date = date;
         this.event = event;
         this.name = name;
@@ -21,9 +21,9 @@ public class EventData {
 
     // 其他字段的 getter 和 setter 方法...
 
-    public int getId() {
-        return id;
-    }
+//    public int getId() {
+//        return id;
+//    }
     public String getDate() {
         return date;
     }
